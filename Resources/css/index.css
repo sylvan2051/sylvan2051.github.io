@@ -1,0 +1,25 @@
+
+
+#strong {
+  font-weight: bold;
+  color: rebeccapurple;
+  size: 500px;
+  font-family: Garrund;
+}
+h2  {
+  background: url(http://cdn2-www.dogtime.com/assets/uploads/gallery/samoyed-dogs-and-puppies/samoyed-dogs-puppies-8.jpg);
+  Background-size: 500px 400px;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: center;
+}
+
+body {
+  text-align: center;
+  background-color: skyblue;
+}
+
+#wow {
+  color: orange;
+  font-size: 50px;
+}
